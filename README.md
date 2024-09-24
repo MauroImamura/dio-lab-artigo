@@ -1,5 +1,5 @@
 # dio-lab-artigo
---
+
 Repo para entrega do desafio "Criando Artigos Técnicos com ChatGPT e Lexica.art" da dio.me
 --
 ## Criação Do Material Base
@@ -8,7 +8,7 @@ Repo para entrega do desafio "Criando Artigos Técnicos com ChatGPT e Lexica.art
     Serviços Cloud - SAAS, PAAS e IAAS
 
 ### Título Chamativo
-    **prompt:**
+    prompt:
     ```
         Atue como um escritor de artigos para blog de tecnologia e liste 10 ideias de títulos para um artigo sobre "Serviços Cloud - SAAS, PAAS e IAAS" para programadores iniciantes que precisam aprender os fundamentos sobre o assunto.
 
@@ -17,13 +17,13 @@ Repo para entrega do desafio "Criando Artigos Técnicos com ChatGPT e Lexica.art
         > Usar menos de 10 palavras no título.
     ```
 
-    *Resultado => Serviços Cloud: Entenda as Diferenças entre SAAS, PAAS e IAAS*
+    Resultado => Serviços Cloud: Entenda as Diferenças entre SAAS, PAAS e IAAS*
 
 ### Imagem de Capa Chamativa
    Criada com Microsoft Design
 
 ### Definir Assunto e Blocos do Artigo
-    **prompt:**
+    prompt:
     ```
         Atue como um escritor de artigos para blog de tecnologia e escreva um artigo sobre "Serviços Cloud - SAAS, PAAS e IAAS" para programadores iniciantes que precisam aprender os funtamentos sobre o assunto. Usar elementos de {RESUMO} para gerar o {ROTEIRO} de acordo com as {REGRAS}. O título é "Serviços Cloud: Entenda as Diferenças entre SAAS, PAAS e IAAS".
 
